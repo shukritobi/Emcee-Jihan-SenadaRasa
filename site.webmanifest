@@ -1,0 +1,16 @@
+{
+  "name": "Emcee Jihan · SenadaRasa",
+  "short_name": "SenadaRasa",
+  "description": "Portfolio rasmi Emcee Jihan.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#2b201d",
+  "theme_color": "#2b201d",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
